@@ -1,6 +1,7 @@
 class Angle {
-    static RADIAN_TO_ANGLE = Math.PI / 180;
-    static ANGLE_TO_DEGREE = 180 / Math.PI;
+    static RADIAN_TO_ANGLE =  180/Math.PI;
+    static ANGLE_TO_DEGREE = Math.PI/180;
+    static PI = Math.PI;
     static PI2 = Math.PI * 2;
     static PI_HALF = Math.PI / 2;
 
